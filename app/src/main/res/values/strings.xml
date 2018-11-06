@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Voting Booth</string>
+    <string name="betty">Betty</string>
+    <string name="vote_for_betty">Vote for Betty</string>
+    <string name="veronica">Veronica</string>
+    <string name="vote_for_veronica">Vote for Veronica</string>
+    <string name="change_color">Change Color</string>
+    <string name="reset_votes">Reset Votes</string>
+    <string name="has_0_votes">has 0 votes</string>
+</resources>
